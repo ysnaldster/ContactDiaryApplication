@@ -8,6 +8,12 @@ manera más sencilla y rápida. **Contact Diary Application** es una solución q
 mencionadas; caracterizandose su diseño y tu interfaz sencilla de usar, permitiendo que el usuario pueda efectuar
 las operaciones de listado, guardado, borrado y actualizado de su agenda de contactos. 
 
+## 📋 Tablad de Contenido 
+
+1. ¿Cómo instalar Contact Diary Application?
+2. ¿Cómo correr Contact Diary Application? 
+3. Comprensión de Conceptos Básicos 
+
 ## 🔽 ¿Cómo instalar Contact Diary Application?
 
 > *Contact Diary Application fue creado con el uso del lenguaje de programación **PHP**, en su versión **8.1.2**, lo cual
