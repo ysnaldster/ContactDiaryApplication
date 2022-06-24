@@ -8,7 +8,7 @@ manera más sencilla y rápida. **Contact Diary Application** es una solución q
 mencionadas; caracterizandose su diseño y tu interfaz sencilla de usar, permitiendo que el usuario pueda efectuar
 las operaciones de listado, guardado, borrado y actualizado de su agenda de contactos. 
 
-## 📋 Tablad de Contenido 
+## 📋 Tabla de Contenido 
 
 1. ¿Cómo instalar Contact Diary Application?
 2. ¿Cómo correr Contact Diary Application? 
